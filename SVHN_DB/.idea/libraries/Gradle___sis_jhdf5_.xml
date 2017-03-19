@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :sis-jhdf5:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sis-jhdf5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

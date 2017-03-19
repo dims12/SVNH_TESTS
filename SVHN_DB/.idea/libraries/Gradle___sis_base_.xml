@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :sis-base:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sis-base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
