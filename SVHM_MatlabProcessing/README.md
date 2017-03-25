@@ -3,6 +3,7 @@ These scripts are to provide additional processing for SVHN corpus
 1) Set **SVHN_LOCAL** variable to point to location of downloaded [SVHN corpus](http://ufldl.stanford.edu/housenumbers/)
  with the following directory structure
 
+```
 ROOT_DIR
 |
 +----train
@@ -14,6 +15,7 @@ ROOT_DIR
 +----train_32x32.mat
 +----test_32x32.mat
 +----extra_32x32.mat
+```
 
 where **train**, **test** and **extra** are the directories with appropriate image files unpacked.
 Note, that
